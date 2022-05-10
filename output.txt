@@ -1,0 +1,2 @@
+This is the output for the sample of the write file in the node. The node is popular backend language and more information is here: For multipart entities the boundary directive is required. The directive consists of 1 to 70 characters from a set of characters (and not ending with white space) known to be very robust through email gateways. It is used to encapsulate the boundaries of the multiple parts of the message. Often, the header boundary is prepended with two dashes and the final boundary has two dashes appended at the end.. 
+ Created on 1652222765006
